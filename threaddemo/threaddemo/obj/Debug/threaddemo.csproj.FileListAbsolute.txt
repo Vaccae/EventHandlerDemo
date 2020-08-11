@@ -1,0 +1,10 @@
+D:\Business\DemoTEST\CSharp\threaddemo\threaddemo\bin\Debug\threaddemo.exe.config
+D:\Business\DemoTEST\CSharp\threaddemo\threaddemo\bin\Debug\threaddemo.exe
+D:\Business\DemoTEST\CSharp\threaddemo\threaddemo\bin\Debug\threaddemo.pdb
+D:\Business\DemoTEST\CSharp\threaddemo\threaddemo\obj\Debug\threaddemo.Form1.resources
+D:\Business\DemoTEST\CSharp\threaddemo\threaddemo\obj\Debug\threaddemo.Properties.Resources.resources
+D:\Business\DemoTEST\CSharp\threaddemo\threaddemo\obj\Debug\threaddemo.csproj.GenerateResource.cache
+D:\Business\DemoTEST\CSharp\threaddemo\threaddemo\obj\Debug\threaddemo.csproj.CoreCompileInputs.cache
+D:\Business\DemoTEST\CSharp\threaddemo\threaddemo\obj\Debug\threaddemo.exe
+D:\Business\DemoTEST\CSharp\threaddemo\threaddemo\obj\Debug\threaddemo.pdb
+D:\Business\DemoTEST\CSharp\threaddemo\threaddemo\obj\Debug\threaddemo.csprojAssemblyReference.cache
